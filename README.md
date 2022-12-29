@@ -72,4 +72,4 @@ are there to help print out the activities. If I had more time, I would improve 
 increase the cohesion of my code. Hence, improve the readability, quality and maintainability of my overall code. 
 I also would add more visualization to my project to make it prettier.
 
-* This projects is licensed under the (MIT License)[#LICENSE].
+This projects is licensed under the (MIT License)[#LICENSE].
